@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\bin\Debug\netcoreapp3.1\Assignment_Two.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\bin\Debug\netcoreapp3.1\Assignment_Two.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\bin\Debug\netcoreapp3.1\Assignment_Two.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\bin\Debug\netcoreapp3.1\Assignment_Two.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\bin\Debug\netcoreapp3.1\Assignment_Two.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\bin\Debug\netcoreapp3.1\Assignment_Two.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Two\Assignment_Two\obj\Debug\netcoreapp3.1\Assignment_Two.genruntimeconfig.cache
