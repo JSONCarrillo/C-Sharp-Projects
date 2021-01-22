@@ -8,8 +8,8 @@ namespace Assignment_Seven
         {
 
             Console.WriteLine("Lets play a game!");
-            bool UserEnd = true;
-            while (UserEnd = true)
+            bool GameEnd = true;
+            while(GameEnd)
             {
             Console.WriteLine("Pick a number between 1-100.");
             int Answer = Convert.ToInt32(Console.ReadLine());
@@ -32,10 +32,10 @@ namespace Assignment_Seven
                 }
             }
             while (!isCorrect);
-                Console.WriteLine("Play Again? (y/n)");
-                string GameEnd = Console.ReadLine();
+                Console.WriteLine("Play Again? (true/false)");
+                GameEnd = Convert.ToBoolean(Console.ReadLine());
 
-                if(GameEnd == "n"){
+                if(GameEnd == false){
                     Console.WriteLine("Alright, cya!");
                     break;
                 }
