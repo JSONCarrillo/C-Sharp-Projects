@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\bin\Debug\netcoreapp3.1\Assignment_Five.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\bin\Debug\netcoreapp3.1\Assignment_Five.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\bin\Debug\netcoreapp3.1\Assignment_Five.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\bin\Debug\netcoreapp3.1\Assignment_Five.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\bin\Debug\netcoreapp3.1\Assignment_Five.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\bin\Debug\netcoreapp3.1\Assignment_Five.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\obj\Debug\netcoreapp3.1\Assignment_Five.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\obj\Debug\netcoreapp3.1\Assignment_Five.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\obj\Debug\netcoreapp3.1\Assignment_Five.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\obj\Debug\netcoreapp3.1\Assignment_Five.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\obj\Debug\netcoreapp3.1\Assignment_Five.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Five\Assignment_Five\obj\Debug\netcoreapp3.1\Assignment_Five.genruntimeconfig.cache
