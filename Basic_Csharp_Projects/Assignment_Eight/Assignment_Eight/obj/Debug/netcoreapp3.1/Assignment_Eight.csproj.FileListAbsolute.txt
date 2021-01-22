@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\bin\Debug\netcoreapp3.1\Assignment_Eight.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\bin\Debug\netcoreapp3.1\Assignment_Eight.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\bin\Debug\netcoreapp3.1\Assignment_Eight.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\bin\Debug\netcoreapp3.1\Assignment_Eight.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\bin\Debug\netcoreapp3.1\Assignment_Eight.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\bin\Debug\netcoreapp3.1\Assignment_Eight.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\obj\Debug\netcoreapp3.1\Assignment_Eight.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\obj\Debug\netcoreapp3.1\Assignment_Eight.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\obj\Debug\netcoreapp3.1\Assignment_Eight.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\obj\Debug\netcoreapp3.1\Assignment_Eight.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\obj\Debug\netcoreapp3.1\Assignment_Eight.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eight\Assignment_Eight\obj\Debug\netcoreapp3.1\Assignment_Eight.genruntimeconfig.cache
