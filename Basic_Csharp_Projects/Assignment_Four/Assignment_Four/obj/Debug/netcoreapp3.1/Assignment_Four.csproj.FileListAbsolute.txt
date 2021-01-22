@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.genruntimeconfig.cache
