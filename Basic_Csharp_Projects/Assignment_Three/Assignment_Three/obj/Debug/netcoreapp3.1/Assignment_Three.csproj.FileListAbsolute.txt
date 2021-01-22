@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.genruntimeconfig.cache
