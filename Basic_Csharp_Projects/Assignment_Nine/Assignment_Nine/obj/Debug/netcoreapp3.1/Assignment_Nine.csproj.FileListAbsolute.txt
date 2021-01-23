@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\bin\Debug\netcoreapp3.1\Assignment_Nine.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\bin\Debug\netcoreapp3.1\Assignment_Nine.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\bin\Debug\netcoreapp3.1\Assignment_Nine.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\bin\Debug\netcoreapp3.1\Assignment_Nine.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\bin\Debug\netcoreapp3.1\Assignment_Nine.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\bin\Debug\netcoreapp3.1\Assignment_Nine.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nine\Assignment_Nine\obj\Debug\netcoreapp3.1\Assignment_Nine.genruntimeconfig.cache
