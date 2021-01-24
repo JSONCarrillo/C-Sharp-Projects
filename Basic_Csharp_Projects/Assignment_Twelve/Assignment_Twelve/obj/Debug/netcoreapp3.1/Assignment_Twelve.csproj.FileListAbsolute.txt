@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\bin\Debug\netcoreapp3.1\Assignment_Twelve.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\bin\Debug\netcoreapp3.1\Assignment_Twelve.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\bin\Debug\netcoreapp3.1\Assignment_Twelve.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\bin\Debug\netcoreapp3.1\Assignment_Twelve.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\bin\Debug\netcoreapp3.1\Assignment_Twelve.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\bin\Debug\netcoreapp3.1\Assignment_Twelve.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\obj\Debug\netcoreapp3.1\Assignment_Twelve.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\obj\Debug\netcoreapp3.1\Assignment_Twelve.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\obj\Debug\netcoreapp3.1\Assignment_Twelve.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\obj\Debug\netcoreapp3.1\Assignment_Twelve.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\obj\Debug\netcoreapp3.1\Assignment_Twelve.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twelve\Assignment_Twelve\obj\Debug\netcoreapp3.1\Assignment_Twelve.genruntimeconfig.cache
