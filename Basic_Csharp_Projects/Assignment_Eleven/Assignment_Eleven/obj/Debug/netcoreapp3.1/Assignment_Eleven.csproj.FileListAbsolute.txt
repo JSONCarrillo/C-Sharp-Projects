@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\bin\Debug\netcoreapp3.1\Assignment_Eleven.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\bin\Debug\netcoreapp3.1\Assignment_Eleven.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\bin\Debug\netcoreapp3.1\Assignment_Eleven.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\bin\Debug\netcoreapp3.1\Assignment_Eleven.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\bin\Debug\netcoreapp3.1\Assignment_Eleven.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\bin\Debug\netcoreapp3.1\Assignment_Eleven.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\obj\Debug\netcoreapp3.1\Assignment_Eleven.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\obj\Debug\netcoreapp3.1\Assignment_Eleven.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\obj\Debug\netcoreapp3.1\Assignment_Eleven.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\obj\Debug\netcoreapp3.1\Assignment_Eleven.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\obj\Debug\netcoreapp3.1\Assignment_Eleven.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Eleven\Assignment_Eleven\obj\Debug\netcoreapp3.1\Assignment_Eleven.genruntimeconfig.cache
