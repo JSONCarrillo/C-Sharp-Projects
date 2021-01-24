@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\bin\Debug\netcoreapp3.1\Assignment_Ten.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\bin\Debug\netcoreapp3.1\Assignment_Ten.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\bin\Debug\netcoreapp3.1\Assignment_Ten.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\bin\Debug\netcoreapp3.1\Assignment_Ten.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\bin\Debug\netcoreapp3.1\Assignment_Ten.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\bin\Debug\netcoreapp3.1\Assignment_Ten.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Ten\Assignment_Ten\obj\Debug\netcoreapp3.1\Assignment_Ten.genruntimeconfig.cache
