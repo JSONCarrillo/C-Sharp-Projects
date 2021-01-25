@@ -9,18 +9,25 @@ namespace Assignment_Ten
         {
             //Part 1 and 2
             bool Done = false;
-            List<string> stringArray = new List<string>();
+            int iteration = 0;
+            string[] stringArray = new string[0];
+
+            //While !Done creates an infinite loop since Done is currently set to false
             while (!Done)
             {
                 Console.WriteLine("Input some text. (Type DONE to move on.)");
+                
                 string userInput = Console.ReadLine();
                 if (userInput == "DONE")
                 {
+                    //This line ends the loop so the user can continue with the rest of the application
                     Done = true;
                 }
                 else
                 {
-                    stringArray.Add(userInput);
+                    Array.Resize<string>(ref stringArray, stringArray.Length + 1);
+                    stringArray[iteration] = userInput;
+                    iteration++;
                     foreach (string i in stringArray)
                     {
                         Console.WriteLine(i);
@@ -41,91 +48,87 @@ namespace Assignment_Ten
             // Part 4
             
             List<string> arraySearch = new List<string>() { "Hello", "There", "General", "Kenobi" };
-
+            bool isValue = false;
             Console.WriteLine("Search for item in the array.");
             while (Done)
             {
-                bool returnValue = false;
                 string userQuery = Console.ReadLine();
                 foreach(string i in arraySearch)
                 {
                     if(userQuery == i)
                     {
                         Console.WriteLine(arraySearch.IndexOf(i));
-                        returnValue = true;
+                        isValue = true;
                         Done = false;
                         break;
                     }
-                    else
-                    {
-                        continue;
-                    }
                 }
-                if(!returnValue)
+                if (!isValue)
                 {
-                    Console.WriteLine("Could not find search request");
-                    Done = false;
-                    break;
-                }
+                    Console.WriteLine("Could not find value, try again.");
+                };
             }
 
             //Part 5
             bool isFinished = false;
+            bool isFound = false;
+
+            int index = 0;
             List<string> names = new List<string>() {"Jen", "Dawson", "Joey", "Jen" };
             List<int> indices = new List<int>();
 
             Console.WriteLine("Search for name.");
             while (!isFinished)
             {
-                bool returnValue = false;
-                string nameQuery = Console.ReadLine();
-                foreach (string i in names)
+                string userQuery = Console.ReadLine();
+                foreach(string i in names)
                 {
-                    if (nameQuery == i)
+                    if(i == "Jen" && userQuery == "Jen")
                     {
-                        returnValue = true;
-                        if(i == nameQuery)
-                        {
-                            indices.Add(names.IndexOf(i));
-                        }
+                        indices.Add(index);
+                        isFound = true;
+                        
                     }
-                    else
+                    else if(i == userQuery)
                     {
-                        continue;
+                        isFinished = true;
+                        indices.Add(names.IndexOf(userQuery));
+                        break;
                     }
-
+                    index++;
                 }
-                if (!returnValue)
+                foreach(int i in indices)
                 {
-                    Console.WriteLine("Could not find search request");
+                    Console.WriteLine(i);
+                   
+                }
+                if (isFound)
+                {
                     isFinished = true;
                     break;
                 }
-                else
-                {
-                    Console.WriteLine(indices.Count);
-                    isFinished = true;
-                    break;
-                }
+                
             }
 
             //Part 6
             List<string> moreNames = new List<string>() { "John", "Jacob", "Paul", "John", "Jared" };
             List<string> duplicates = new List<string>();
-
             foreach(string i in moreNames)
             {
-                Console.WriteLine(i);
-                if(i == "John"){
-                    duplicates.Add(i);
-                    continue;
-                };
-                if(duplicates.Count > 1)
-                {
-                    Console.WriteLine("John appears " + duplicates.Count + " times");
-                    continue;
-                }
 
+                if(i == "John")
+                {
+                    duplicates.Add(i);
+                    Console.WriteLine(i);
+                    if (duplicates.Count > 1)
+                    {
+                        Console.WriteLine(i + " has appeared more than once");
+                    };
+                }
+                else
+                {
+                    Console.WriteLine(i);
+                }
             }
         }
     }
