@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\bin\Debug\netcoreapp3.1\Assignment_Thirteen.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\bin\Debug\netcoreapp3.1\Assignment_Thirteen.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\bin\Debug\netcoreapp3.1\Assignment_Thirteen.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\bin\Debug\netcoreapp3.1\Assignment_Thirteen.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\bin\Debug\netcoreapp3.1\Assignment_Thirteen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\bin\Debug\netcoreapp3.1\Assignment_Thirteen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Thirteen\Assignment_Thirteen\obj\Debug\netcoreapp3.1\Assignment_Thirteen.genruntimeconfig.cache
