@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\bin\Debug\netcoreapp3.1\Assignment_Seventeen.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\bin\Debug\netcoreapp3.1\Assignment_Seventeen.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\bin\Debug\netcoreapp3.1\Assignment_Seventeen.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\bin\Debug\netcoreapp3.1\Assignment_Seventeen.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\bin\Debug\netcoreapp3.1\Assignment_Seventeen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\bin\Debug\netcoreapp3.1\Assignment_Seventeen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Seventeen\Assignment_Seventeen\obj\Debug\netcoreapp3.1\Assignment_Seventeen.genruntimeconfig.cache
