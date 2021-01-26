@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\bin\Debug\netcoreapp3.1\Assignment_Fourteen.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\bin\Debug\netcoreapp3.1\Assignment_Fourteen.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\bin\Debug\netcoreapp3.1\Assignment_Fourteen.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\bin\Debug\netcoreapp3.1\Assignment_Fourteen.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\bin\Debug\netcoreapp3.1\Assignment_Fourteen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\bin\Debug\netcoreapp3.1\Assignment_Fourteen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\obj\Debug\netcoreapp3.1\Assignment_Fourteen.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\obj\Debug\netcoreapp3.1\Assignment_Fourteen.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\obj\Debug\netcoreapp3.1\Assignment_Fourteen.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\obj\Debug\netcoreapp3.1\Assignment_Fourteen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\obj\Debug\netcoreapp3.1\Assignment_Fourteen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Fourteen\Assignment_Fourteen\obj\Debug\netcoreapp3.1\Assignment_Fourteen.genruntimeconfig.cache
