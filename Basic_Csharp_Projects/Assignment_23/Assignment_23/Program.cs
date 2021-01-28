@@ -9,7 +9,6 @@ namespace Assignment_23
             Number n = new Number();
             n.Amount = 10.003M;
             Console.WriteLine(n.Amount);
-            Console.ReadLine();
         }
     }
 }
