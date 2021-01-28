@@ -16,13 +16,15 @@ namespace Assignment_Twenty
         {
             Console.WriteLine($"Name: {FirstName} {LastName}");
         }
-        public static bool operator ==(Employee id1, Employee id2)
+
+        //Overload operators
+        public static bool operator ==(Employee obj1, Employee obj2)
         {
-            return id2 == id1;
+            return obj1.id == obj2.id;
         }
-        public static bool operator !=(Employee id1, Employee id2)
+        public static bool operator !=(Employee obj1, Employee obj2)
         {
-            return !(id1 == id2);
+            return !(obj1.id == obj2.id);
         }
 
     }
@@ -45,8 +47,7 @@ namespace Assignment_Twenty
             };
 
             sample.SayName();
-
-            Console.WriteLine(sample.id == sample2.id);
+            
         }
 
 
