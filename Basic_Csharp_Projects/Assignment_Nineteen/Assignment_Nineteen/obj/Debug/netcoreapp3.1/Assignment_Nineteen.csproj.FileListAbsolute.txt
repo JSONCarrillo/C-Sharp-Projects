@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\bin\Debug\netcoreapp3.1\Assignment_Nineteen.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\bin\Debug\netcoreapp3.1\Assignment_Nineteen.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\bin\Debug\netcoreapp3.1\Assignment_Nineteen.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\bin\Debug\netcoreapp3.1\Assignment_Nineteen.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\bin\Debug\netcoreapp3.1\Assignment_Nineteen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\bin\Debug\netcoreapp3.1\Assignment_Nineteen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Nineteen\Assignment_Nineteen\obj\Debug\netcoreapp3.1\Assignment_Nineteen.genruntimeconfig.cache
