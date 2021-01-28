@@ -6,9 +6,6 @@ namespace Assignment_Nineteen
 {
     interface IQuittable
     {
-        public void IQuit()
-        {
-
-        }
+        void IQuit();
     }
 }

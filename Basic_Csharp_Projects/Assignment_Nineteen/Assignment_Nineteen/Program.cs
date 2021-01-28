@@ -21,6 +21,7 @@ namespace Assignment_Nineteen
             Console.WriteLine($"{FirstName} {LastName} has quit");
         }
     }
+    
     class Program
     {
         static void Main(string[] args)
@@ -31,8 +32,14 @@ namespace Assignment_Nineteen
                 LastName = "Student"
             };
 
+            IQuittable quit = new Employee { 
+                FirstName = "James",
+                LastName = "Cameron"
+            };
+
+            quit.IQuit();
+
             sample.SayName();
-            sample.IQuit();
         }
     }
 }
