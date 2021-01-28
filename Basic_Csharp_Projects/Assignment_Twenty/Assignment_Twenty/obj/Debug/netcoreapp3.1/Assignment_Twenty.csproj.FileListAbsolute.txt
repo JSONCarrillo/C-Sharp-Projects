@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\bin\Debug\netcoreapp3.1\Assignment_Twenty.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\bin\Debug\netcoreapp3.1\Assignment_Twenty.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\bin\Debug\netcoreapp3.1\Assignment_Twenty.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\bin\Debug\netcoreapp3.1\Assignment_Twenty.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\bin\Debug\netcoreapp3.1\Assignment_Twenty.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\bin\Debug\netcoreapp3.1\Assignment_Twenty.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_Twenty\Assignment_Twenty\obj\Debug\netcoreapp3.1\Assignment_Twenty.genruntimeconfig.cache
