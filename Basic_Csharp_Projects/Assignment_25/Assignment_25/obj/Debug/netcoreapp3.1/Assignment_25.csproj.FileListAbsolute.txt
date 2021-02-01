@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\bin\Debug\netcoreapp3.1\Assignment_25.exe
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\bin\Debug\netcoreapp3.1\Assignment_25.deps.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\bin\Debug\netcoreapp3.1\Assignment_25.runtimeconfig.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\bin\Debug\netcoreapp3.1\Assignment_25.runtimeconfig.dev.json
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\bin\Debug\netcoreapp3.1\Assignment_25.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\bin\Debug\netcoreapp3.1\Assignment_25.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.csprojAssemblyReference.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.AssemblyInfo.cs
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.dll
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.pdb
+C:\Users\jason\Documents\C-Sharp-Projects\Basic_Csharp_Projects\Assignment_25\Assignment_25\obj\Debug\netcoreapp3.1\Assignment_25.genruntimeconfig.cache
