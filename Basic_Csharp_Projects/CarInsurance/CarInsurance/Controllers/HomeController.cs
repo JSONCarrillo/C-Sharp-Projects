@@ -74,9 +74,9 @@ namespace CarInsurance.Controllers
                 quote += 25;
             }
 
-            if (carMake.ToUpper() == "Porsche")
+            if (carMake.ToUpper() == "PORSCHE")
             {
-                if (carModel.ToUpper() == "911 Carerra")
+                if (carModel.ToUpper() == "911 CARERRA")
                 {
                     quote += 25;
                 }
