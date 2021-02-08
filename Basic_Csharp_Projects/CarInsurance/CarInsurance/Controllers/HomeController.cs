@@ -60,7 +60,11 @@ namespace CarInsurance.Controllers
             {
                 quote += 100;
             }
-            else if (age < 25 || age > 100)
+            else if (age > 19 || age < 25)
+            {
+                quote += 50;
+            }
+            else if (age > 25)
             {
                 quote += 25;
             }
@@ -70,13 +74,13 @@ namespace CarInsurance.Controllers
                 quote += 25;
             }
 
-            if (carMake == "Porsche" || carMake == "porsche" && carModel == "911 Carrera")
+            if (carMake.ToUpper() == "Porsche")
             {
-                if (carMake == "Porsche" || carMake == "porsche")
+                if (carModel.ToUpper() == "911 Carerra")
                 {
                     quote += 25;
                 }
-                quote += 50;
+                quote += 25;
             }
 
             if (speedTicket > 0)
